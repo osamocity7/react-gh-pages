@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f57d82be.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.a8b9bba5.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.a8b9bba5.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.74de6741.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.74de6741.js.map",
-    "static/js/2.45b5675f.chunk.js": "/react-gh-pages/static/js/2.45b5675f.chunk.js",
-    "static/js/2.45b5675f.chunk.js.map": "/react-gh-pages/static/js/2.45b5675f.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.83e62e88377f483fa72206e5093a13e6.js": "/react-gh-pages/precache-manifest.83e62e88377f483fa72206e5093a13e6.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.f57d82be.chunk.css.map": "/react-gh-pages/static/css/main.f57d82be.chunk.css.map",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.25bf045c.svg"
+    "main.css": "/react-gh-pages/LoginForm/static/css/main.f57d82be.chunk.css",
+    "main.js": "/react-gh-pages/LoginForm/static/js/main.eef84ea9.chunk.js",
+    "main.js.map": "/react-gh-pages/LoginForm/static/js/main.eef84ea9.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/LoginForm/static/js/runtime-main.de202591.js",
+    "runtime-main.js.map": "/react-gh-pages/LoginForm/static/js/runtime-main.de202591.js.map",
+    "static/js/2.45b5675f.chunk.js": "/react-gh-pages/LoginForm/static/js/2.45b5675f.chunk.js",
+    "static/js/2.45b5675f.chunk.js.map": "/react-gh-pages/LoginForm/static/js/2.45b5675f.chunk.js.map",
+    "index.html": "/react-gh-pages/LoginForm/index.html",
+    "precache-manifest.a6a51726e97d71985faa2edb887b8c67.js": "/react-gh-pages/LoginForm/precache-manifest.a6a51726e97d71985faa2edb887b8c67.js",
+    "service-worker.js": "/react-gh-pages/LoginForm/service-worker.js",
+    "static/css/main.f57d82be.chunk.css.map": "/react-gh-pages/LoginForm/static/css/main.f57d82be.chunk.css.map",
+    "static/media/logo.svg": "/react-gh-pages/LoginForm/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.74de6741.js",
+    "static/js/runtime-main.de202591.js",
     "static/js/2.45b5675f.chunk.js",
     "static/css/main.f57d82be.chunk.css",
-    "static/js/main.a8b9bba5.chunk.js"
+    "static/js/main.eef84ea9.chunk.js"
   ]
 }
