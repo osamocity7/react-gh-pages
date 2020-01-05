@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48ec7b050f45092209e6ed90d4297ae9",
+    "revision": "89ead9ec9c62fe8f5caf3ca555439ea9",
     "url": "/react-gh-pages/LoginForm/index.html"
   },
   {
-    "revision": "40c18c82745c8dff5643",
+    "revision": "523807b60989e4421dc9",
     "url": "/react-gh-pages/LoginForm/static/css/main.f57d82be.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-gh-pages/LoginForm/static/js/2.45b5675f.chunk.js"
   },
   {
-    "revision": "40c18c82745c8dff5643",
-    "url": "/react-gh-pages/LoginForm/static/js/main.668c78d5.chunk.js"
+    "revision": "523807b60989e4421dc9",
+    "url": "/react-gh-pages/LoginForm/static/js/main.bec7332d.chunk.js"
   },
   {
     "revision": "ebfca0716627401e1c59",
