@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/LoginForm/static/css/main.f57d82be.chunk.css",
-    "main.js": "/react-gh-pages/LoginForm/static/js/main.d9da77c3.chunk.js",
-    "main.js.map": "/react-gh-pages/LoginForm/static/js/main.d9da77c3.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/LoginForm/static/js/runtime-main.de202591.js",
-    "runtime-main.js.map": "/react-gh-pages/LoginForm/static/js/runtime-main.de202591.js.map",
-    "static/js/2.45b5675f.chunk.js": "/react-gh-pages/LoginForm/static/js/2.45b5675f.chunk.js",
-    "static/js/2.45b5675f.chunk.js.map": "/react-gh-pages/LoginForm/static/js/2.45b5675f.chunk.js.map",
-    "index.html": "/react-gh-pages/LoginForm/index.html",
-    "precache-manifest.81f55dcfce3658445fcce986a4cd2cb9.js": "/react-gh-pages/LoginForm/precache-manifest.81f55dcfce3658445fcce986a4cd2cb9.js",
-    "service-worker.js": "/react-gh-pages/LoginForm/service-worker.js",
-    "static/css/main.f57d82be.chunk.css.map": "/react-gh-pages/LoginForm/static/css/main.f57d82be.chunk.css.map",
-    "static/media/logo.svg": "/react-gh-pages/LoginForm/static/media/logo.25bf045c.svg"
+    "main.css": "/react-gh-pages/static/css/main.f57d82be.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.147f50e3.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.147f50e3.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.74de6741.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.74de6741.js.map",
+    "static/js/2.45b5675f.chunk.js": "/react-gh-pages/static/js/2.45b5675f.chunk.js",
+    "static/js/2.45b5675f.chunk.js.map": "/react-gh-pages/static/js/2.45b5675f.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.df5eeea12362223ecf3cce14f44caf5a.js": "/react-gh-pages/precache-manifest.df5eeea12362223ecf3cce14f44caf5a.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.f57d82be.chunk.css.map": "/react-gh-pages/static/css/main.f57d82be.chunk.css.map",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.de202591.js",
+    "static/js/runtime-main.74de6741.js",
     "static/js/2.45b5675f.chunk.js",
     "static/css/main.f57d82be.chunk.css",
-    "static/js/main.d9da77c3.chunk.js"
+    "static/js/main.147f50e3.chunk.js"
   ]
 }
